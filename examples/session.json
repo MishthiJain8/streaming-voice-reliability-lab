@@ -1,0 +1,5 @@
+[
+  {"sequence": 0, "captured_ms": 0, "processed_ms": 42, "samples": [0, 120, -100, 80]},
+  {"sequence": 1, "captured_ms": 20, "processed_ms": 68, "samples": [800, -900, 750, -820]},
+  {"sequence": 2, "captured_ms": 40, "processed_ms": 91, "samples": [700, -720, 760, -740]}
+]
